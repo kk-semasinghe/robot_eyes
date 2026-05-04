@@ -1,0 +1,4 @@
+sensors:
+  eyes_animation:
+    source: local
+    name: eyes_animation

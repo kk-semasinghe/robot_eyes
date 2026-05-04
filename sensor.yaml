@@ -1,0 +1,8 @@
+id: eyes_animation
+name: Eyes Animation
+type: animation
+bus: i2c
+description: Animated eyes for dual SSD1306 I2C displays
+defaults:
+  i2c:
+    addr: 0x3C
